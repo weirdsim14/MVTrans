@@ -5,10 +5,10 @@
 --num_samples=56
 --model_name=res_fpn
 --output=OUTPUT_PATH
---train_path=file://PATH_TO_TRAIN_SET
+--train_path=file://blender_dataset_test_pkl_v2
 --train_batch_size=5
 --train_num_workers=1
---val_path=file://PATH_TO_VAL_SET
+--val_path=file://blender_dataset_test_pkl_v2
 --val_batch_size=1
 --val_num_workers=1
 --optim_learning_rate=0.0006

@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/synthetic_dataset_val_pkl
+/2view.ckpt

@@ -5,10 +5,10 @@
 --num_samples=10
 --model_name=res_fpn
 --output=OUTPUT_PATH
---train_path=file://PATH_TO_VAL_SET
+--train_path=file://synthetic_dataset_val_pkl
 --train_batch_size=2
 --train_num_workers=2
---val_path=file://PATH_TO_VAL_SET
+--val_path=file://synthetic_dataset_val_pkl
 --val_batch_size=2
 --val_num_workers=2
 --optim_learning_rate=0.0006
